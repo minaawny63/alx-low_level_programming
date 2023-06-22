@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Ask for a commit message
+read -p "Enter task number: " task_number
+
+# Make the script executable
+chmod u+x *
+
+# Set permissions for README.md
+chmod 644 README.md
+
+# Add all files to the git repository
+git add .
+
+# Commit the changes with the provided message
+git commit -m "Task $task_number done"
+
+# Push the changes to the remote repository
+git push
