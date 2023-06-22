@@ -9,11 +9,3 @@ void print_remaining_days(int, int, int);
 int convert_day(int, int);
 
 #endif /* MAIN_H */
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Doc
