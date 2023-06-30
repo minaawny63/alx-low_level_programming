@@ -25,11 +25,3 @@ char *leet(char *s)
 	}
 	return (s);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
